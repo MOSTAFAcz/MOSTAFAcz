@@ -25,11 +25,11 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MOSTAFA-cz&show_icons=true&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MOSTAFAcz&show_icons=true&hide_border=true&theme=transparent" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOSTAFA-cz&layout=compact&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOSTAFAcz&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 ---
